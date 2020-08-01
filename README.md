@@ -135,7 +135,7 @@ After approval the campaign can start immediately, but I would suggest to announ
 
 **Budget**
 
-The funding of this proposal goes to 100% to winners in the tournament. I'll have to make up my mind still to find the right balance of an attractive monthly amount of Decred that get's distributed to Poker players while the amount is not so large that it's not too expensive to achieve the desired outcome.
+The funding of this proposal goes to 100% to winners in the tournament. I'll have to make up my mind still to find the right balance of an attractive monthly amount of Decred that get's distributed to Poker players while the amount is not so large that it's too expensive to achieve the desired outcome.
 
 My initial feeling is 50 Decred price pool for the weekly tournaments, 25 for place 1, 15 for place 2 and 10 DCR for place 3 (who doesn't qualify for the monthly final tournament.
 For the monthly final table I'd double the price pool with the same pricing structure for place 1 to 3. (50/30/20
