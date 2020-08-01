@@ -141,7 +141,7 @@ My initial feeling is 50 Decred price pool for the weekly tournaments, 25 for pl
 For the monthly final table I'd double the price pool with the same pricing structure for place 1 to 3. (50/30/20
 
 So the budget would be (4 x 50 DCR) + (1 x 100 DCR) = 300 DCR per month
-That's at current prices 4500$ per month. I find that's the right balance between incentivizing to want to participate -> more qualifier tweets and not spending too much money for the desired effect of the Poker Series.
+That's at current prices 4500$ per month. I find that's the right balance between incentivizing to want to participate -> more qualifier tweets and not spending too much money for the desired effect of the Poker Series. It also doesn't create a monthly sell pressure that is worth mentioning.
 The attention will even grow at higher prices.
 
 But as I said, I wait on feedback on that. It's just to give a first idea.
