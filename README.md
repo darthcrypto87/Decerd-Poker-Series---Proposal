@@ -91,7 +91,7 @@ www.888poker.com
 
 **Qualification**
 
-My first idea is that people have to tweet about DCR under the hashtag #DecredPokerSeries hashtag if they want participate in a tournament.
+My first idea is that people have to tweet about DCR under the #DecredPokerSeries hashtag if they want participate in a tournament.
 
 We could now choose the most popular tweets, but I consider it unfair, as some people have more followers than others and can tweak the popularity of their tweet.
 
