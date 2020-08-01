@@ -28,7 +28,7 @@ I don't think any other Project has done that before, but the treasury gives us 
 On 888poker it's possible to host poker tournaments for friends. You can host them as free tournaments, so nobody has to pay Dollars or Decred to qualify/entry for a tournament with a price pool of Decred. I'll get to the qualification conditions later.
 
 These free hosted tournaments are secured by a password, so I'm in in control that only those who qualified can participate in the tournament.
-Although we do free entry tournaments without cash involved, but we'll send out Decred to the winners/paid places.
+Although we do free entry tournaments without cash involved, we'll send out Decred to the winners/paid places after the tournament.
 
 You can play 888poker tournaments by friends on mobile or Desktop.
 
