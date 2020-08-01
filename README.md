@@ -32,7 +32,9 @@ Although we do free entry tournaments without cash involved, we'll send out Decr
 
 You can play 888poker tournaments by friends on mobile or Desktop.
 
-What I plan is a weekly tournament on Saturday with 10 seats and a final tournament on the last sunday of the month with the 4 winners of the weekly tournamnent plus the two best second placed players, which would make a final table of 6 seats. To qualify for the final table you have to end the weekly tournament at least as second. We have then 8 participants and the nineth participant could be the best third place of the weekly tournaments, i.e. stack size before he was beaten.
+What I plan is a weekly tournament on Saturday with 10 seats and a final tournament on the last sunday of the month with the 4 winners of the weekly tournamnent plus the two best second placed players, which would make a final table of 6 seats. To qualify for the final table you have to win a weekly tournament or be one of the two best second places.
+
+If we want the final table to have 10 seats we could take the first 2 places of the weekly tournaments, plus the two best second places of a weekly tournament.
 
 An idea would be to livestream the final tournament on the Decred Youtube-Channel to even more raise the awareness.
 
