@@ -158,3 +158,5 @@ But as I said, I wait on feedback on that. It's just to give a first idea.
 
 You have to rely on me with organizing the tournaments.
 Participation is for people 18+. We'll have to declare that but can't prevent minors trying to qualify for a tournament.
+
+888poker could deactivate the feature within the timespan that we run the Decred Poker Series. We need confirmation from them that they'll keep it up for at least the timespan we decide on.
