@@ -137,12 +137,13 @@ After approval the campaign can start immediately, but I would suggest to announ
 
 The funding of this proposal goes to 100% to winners in the tournament. I'll have to make up my mind still to find the right balance of an attractive monthly amount of Decred that get's distributed to Poker players while the amount is not so large that it's too expensive to achieve the desired outcome.
 
-My initial feeling is 50 Decred price pool for the weekly tournaments, 25 for place 1, 15 for place 2 and 10 DCR for place 3 (who doesn't qualify for the monthly final tournament.
-For the monthly final table I'd double the price pool with the same pricing structure for place 1 to 3. (50/30/20
+My initial feeling is 50 Decred price pool for the weekly tournaments, 25 for place 1, 15 for place 2 and 10 DCR for place 3 (who doesn't qualify for the monthly final tournament).
+For the monthly final table I'd double the price pool with the same pricing structure for place 1 to 3. (50/30/20)
 
-So the budget would be (4 x 50 DCR) + (1 x 100 DCR) = 300 DCR per month
-That's at current prices 4500$ per month. I find that's the right balance between incentivizing to want to participate -> more qualifier tweets and not spending too much money for the desired effect of the Poker Series. It also doesn't create a monthly sell pressure that is worth mentioning.
-The attention will even grow at higher prices.
+So the budget would be (4 x 50 DCR) + (1 x 100 DCR) = 300 DCR per month.
+
+That's at current prices around 4500$ per month. I find that's the right balance between incentivizing people to want to participate -> more qualifier tweets -> more attention, and not spending too much money for the desired effect of the Poker Series. It also doesn't create a monthly sell pressure that is worth mentioning.
+The attention will even grow at higher prices of Decred.
 
 But as I said, I wait on feedback on that. It's just to give a first idea.
 
