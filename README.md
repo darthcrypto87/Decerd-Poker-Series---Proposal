@@ -23,6 +23,9 @@ I don't think any other Project has done that before, but the treasury gives us 
 
 
 
+
+
+
 **How**
 
 On 888poker it's possible to host poker tournaments for friends. You can host them as free tournaments, so nobody has to pay Dollars or Decred to qualify/entry for a tournament with a price pool of Decred. I'll get to the qualification conditions later.
@@ -84,6 +87,8 @@ www.888poker.com
 
 
 
+
+
 **Qualification**
 
 My first idea is that people have to tweet about DCR under the hashtag #DecredPokerSeries hashtag if they want participate in a tournament.
@@ -95,6 +100,8 @@ Tweets must contain $DCR and #Decred, #Poker and #DidYouKnowDecred.
 
 Examlpe for a valid tweet:
 "#DidYouKnowDecred has a Poker series that pays prices in #DCR and I want to participate. $DCR #Decred #DecredPokerSeries #Poker"
+
+
 
 
 
@@ -112,12 +119,16 @@ The distribution of the prizes shouldn't be done by me, because there is a risk 
 
 
 
+
+
 **When and how long**
 
 I'd like to await feedback first before I think about for how long this proposal should be aiming.
 But to keep the attention on Decred and the Poker series I would suggest a time period of 6 months.
 
 After approval the campaign can start immediately, but I would suggest to announce it before a week of "Qualifier-Tweets" start.
+
+
 
 
 
@@ -134,6 +145,9 @@ That's at current prices 4500$ per month. I find that's the right balance betwee
 The attention will even grow at higher prices.
 
 But as I said, I wait on feedback on that. It's just to give a first idea.
+
+
+
 
 
 
