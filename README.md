@@ -128,7 +128,7 @@ The distribution of the prizes shouldn't be done by me, because there is a risk 
 I'd like to await feedback first before I think about for how long this proposal should be aiming.
 But to keep the attention on Decred and the Poker series I would suggest a time period of 6 months.
 
-After approval the campaign could start immediately, but I would suggest to announce it before a week of "Qualifier-Tweets" start and maybe even have 2 weeks of "Promo" before prior to the first tournament.
+After approval the campaign could start immediately, but I would suggest to announce it before a week of "Qualifier-Tweets" start and maybe even have 2 weeks of "Promo" prior to the first tournament.
 Maybe Exitus would like to do an interview with me about the Poker Series after approval in order to present it to the Community. Or I could be on the Decred in Depth and talk about it.
 
 
