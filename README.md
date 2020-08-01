@@ -101,6 +101,8 @@ Tweets must contain $DCR and #Decred, #Poker and #DidYouKnowDecred.
 Examlpe for a valid tweet:
 "#DidYouKnowDecred has a Poker series that pays prices in #DCR and I want to participate. $DCR #Decred #DecredPokerSeries #Poker"
 
+Also potential participants have to follow Decred on Twitter.
+
 
 
 
