@@ -35,7 +35,8 @@ Although we do free entry tournaments without cash involved, we'll send out Decr
 
 You can play 888poker tournaments by friends on mobile or Desktop.
 
-What I plan is a weekly tournament on Saturday with 10 seats and a final tournament on the last sunday of the month with the 4 winners of the weekly tournamnent plus the two best second placed players, which would make a final table of 6 seats. To qualify for the final table you have to win a weekly tournament or be one of the two best second places.
+What I plan is a weekly tournament on Saturday with 10 seats and a final tournament on the last sunday of the month with the 4 winners of the weekly tournamnent plus the two best second placed players, which would make a final table of 6 seats.
+In easier terms: To qualify for the final table you have to win a weekly tournament or be one of the two best second placed players.
 
 If we want the final table to have 10 seats we could take the first 2 places of the weekly tournaments, plus the two best second places of a weekly tournament.
 
